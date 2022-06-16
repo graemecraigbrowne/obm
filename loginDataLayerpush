@@ -1,0 +1,9 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'login',
+ 'userId': 'abc123',
+ 'pricingPlan': 'premium',
+ 'sessionNumber': 7
+ });
+</script>
